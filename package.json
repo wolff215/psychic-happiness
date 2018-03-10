@@ -1,0 +1,22 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolff215/psychic-happiness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolff215/psychic-happiness/issues"
+  },
+  "homepage": "https://github.com/wolff215/psychic-happiness#readme",
+  "dependencies": {
+    "phaser": "^3.2.0"
+  }
+}
